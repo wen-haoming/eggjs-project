@@ -1,0 +1,28 @@
+2021-04-01 01:36:58,960 INFO 58994 [egg:logger] init all loggers with options: {"dir":"/Users/wenhaoming/Desktop/学习/ejj-project/logs/root","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"root-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-04-01 01:36:58,980 INFO 58994 [egg-multipart] stream mode enable
+2021-04-01 01:36:59,105 INFO 58994 [egg-static] starting static serve /public/ -> /Users/wenhaoming/Desktop/学习/ejj-project/app/public
+2021-04-01 01:36:59,107 INFO 58994 [egg-security] use csrf middleware
+2021-04-01 01:36:59,107 INFO 58994 [egg-security] use methodnoallow middleware
+2021-04-01 01:36:59,108 INFO 58994 [egg-security] use noopen middleware
+2021-04-01 01:36:59,108 INFO 58994 [egg-security] use nosniff middleware
+2021-04-01 01:36:59,109 INFO 58994 [egg-security] use xssProtection middleware
+2021-04-01 01:36:59,109 INFO 58994 [egg-security] use xframe middleware
+2021-04-01 01:36:59,110 INFO 58994 [egg-security] use dta middleware
+2021-04-01 01:36:59,110 INFO 58994 [egg-security] compose 7 middlewares into one security middleware
+2021-04-01 01:36:59,117 INFO 58994 [egg:core] dump config after load, 6ms
+2021-04-01 01:36:59,126 INFO 58994 [egg-watcher:application] watcher start success
+2021-04-01 01:36:59,132 INFO 58994 [egg:core] dump config after ready, 4ms
+2021-04-01 01:45:38,627 INFO 59896 [egg:logger] init all loggers with options: {"dir":"/Users/wenhaoming/Desktop/学习/ejj-project/logs/root","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"root-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-04-01 01:45:38,647 INFO 59896 [egg-multipart] stream mode enable
+2021-04-01 01:45:38,739 INFO 59896 [egg-static] starting static serve /public/ -> /Users/wenhaoming/Desktop/学习/ejj-project/app/public
+2021-04-01 01:45:38,741 INFO 59896 [egg-security] use csrf middleware
+2021-04-01 01:45:38,742 INFO 59896 [egg-security] use methodnoallow middleware
+2021-04-01 01:45:38,743 INFO 59896 [egg-security] use noopen middleware
+2021-04-01 01:45:38,744 INFO 59896 [egg-security] use nosniff middleware
+2021-04-01 01:45:38,745 INFO 59896 [egg-security] use xssProtection middleware
+2021-04-01 01:45:38,745 INFO 59896 [egg-security] use xframe middleware
+2021-04-01 01:45:38,746 INFO 59896 [egg-security] use dta middleware
+2021-04-01 01:45:38,746 INFO 59896 [egg-security] compose 7 middlewares into one security middleware
+2021-04-01 01:45:38,750 INFO 59896 [egg:core] dump config after load, 4ms
+2021-04-01 01:45:38,759 INFO 59896 [egg-watcher:application] watcher start success
+2021-04-01 01:45:38,764 INFO 59896 [egg:core] dump config after ready, 4ms

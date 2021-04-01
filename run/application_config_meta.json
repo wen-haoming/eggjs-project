@@ -1,0 +1,261 @@
+{
+  "session": {
+    "maxAge": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "maxAge": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-watcher/config/config.default.js",
+    "eventSources": {
+      "default": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-static/config/config.prod.js",
+    "maxFiles": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-static/config/config.default.js",
+    "maxAge": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-static/config/config.prod.js"
+  },
+  "view": {
+    "root": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-view/config/config.default.js",
+    "defaultExtension": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "name": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "keys": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "private": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "workspaces": {
+      "packages": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "nohoist": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "init": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "start:server": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "stop:server": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "dev:server": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "start:client": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "build:client": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "clean": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "start": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "stop": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "lerna": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "strict": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "depth": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "env": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "level": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "coreLogger": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "allowDebugAtProd": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "logging": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "port": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/wenhaoming/Desktop/学习/ejj-project/node_modules/egg/config/config.default.js"
+}

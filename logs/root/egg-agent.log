@@ -1,0 +1,20 @@
+2021-04-01 01:36:58,411 INFO 58990 [egg:logger] init all loggers with options: {"dir":"/Users/wenhaoming/Desktop/学习/ejj-project/logs/root","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"root-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-04-01 01:36:58,417 INFO 58990 [egg:core] dump config after load, 3ms
+2021-04-01 01:36:58,466 INFO 58990 [egg-watcher] Start watching: ["/Users/wenhaoming/Desktop/学习/ejj-project/app","/Users/wenhaoming/Desktop/学习/ejj-project/config","/Users/wenhaoming/Desktop/学习/ejj-project/mocks","/Users/wenhaoming/Desktop/学习/ejj-project/mocks_proxy","/Users/wenhaoming/Desktop/学习/ejj-project/app.js"]
+2021-04-01 01:36:58,466 INFO 58990 [egg-watcher] Start watching: "/Users/wenhaoming/Desktop/学习/ejj-project/app"
+2021-04-01 01:36:58,466 INFO 58990 [egg-watcher] Start watching: "/Users/wenhaoming/Desktop/学习/ejj-project/config"
+2021-04-01 01:36:58,467 INFO 58990 [egg-watcher] Start watching: "/Users/wenhaoming/Desktop/学习/ejj-project/mocks"
+2021-04-01 01:36:58,467 INFO 58990 [egg-watcher] Start watching: "/Users/wenhaoming/Desktop/学习/ejj-project/mocks_proxy"
+2021-04-01 01:36:58,467 INFO 58990 [egg-watcher] Start watching: "/Users/wenhaoming/Desktop/学习/ejj-project/app.js"
+2021-04-01 01:36:58,467 INFO 58990 [egg-watcher:agent] watcher start success
+2021-04-01 01:36:58,477 INFO 58990 [egg:core] dump config after ready, 4ms
+2021-04-01 01:45:37,972 INFO 59893 [egg:logger] init all loggers with options: {"dir":"/Users/wenhaoming/Desktop/学习/ejj-project/logs/root","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"root-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-04-01 01:45:37,982 INFO 59893 [egg:core] dump config after load, 6ms
+2021-04-01 01:45:38,022 INFO 59893 [egg-watcher] Start watching: ["/Users/wenhaoming/Desktop/学习/ejj-project/app","/Users/wenhaoming/Desktop/学习/ejj-project/config","/Users/wenhaoming/Desktop/学习/ejj-project/mocks","/Users/wenhaoming/Desktop/学习/ejj-project/mocks_proxy","/Users/wenhaoming/Desktop/学习/ejj-project/app.js"]
+2021-04-01 01:45:38,022 INFO 59893 [egg-watcher] Start watching: "/Users/wenhaoming/Desktop/学习/ejj-project/app"
+2021-04-01 01:45:38,022 INFO 59893 [egg-watcher] Start watching: "/Users/wenhaoming/Desktop/学习/ejj-project/config"
+2021-04-01 01:45:38,023 INFO 59893 [egg-watcher] Start watching: "/Users/wenhaoming/Desktop/学习/ejj-project/mocks"
+2021-04-01 01:45:38,023 INFO 59893 [egg-watcher] Start watching: "/Users/wenhaoming/Desktop/学习/ejj-project/mocks_proxy"
+2021-04-01 01:45:38,023 INFO 59893 [egg-watcher] Start watching: "/Users/wenhaoming/Desktop/学习/ejj-project/app.js"
+2021-04-01 01:45:38,023 INFO 59893 [egg-watcher:agent] watcher start success
+2021-04-01 01:45:38,039 INFO 59893 [egg:core] dump config after ready, 4ms

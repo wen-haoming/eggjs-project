@@ -1,0 +1,26 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": {
+    "packages": ["packages/*"],
+    "nohoist": [
+        "**/egg",
+        "**/egg/**"
+    ]
+},
+  "scripts": {
+    "init": "rm -rf node_modules && lerna clean &&  lerna bootstrap --hoist",
+    "start:server": "egg-scripts start --daemon --title=egg-server-server",
+    "stop:server": "egg-scripts stop --title=egg-server-server",
+    "dev:server": "egg-bin dev",
+    "start:client": "cd ./packages/client && vue-cli-service serve",
+    "build:client": "cd ./packages/client && vue-cli-service build",
+    "clean": "lerna clean",
+    "start":"npm-run-all --parallel start:server  start:client",
+    "stop":"lerna run stop --parallel"
+
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
